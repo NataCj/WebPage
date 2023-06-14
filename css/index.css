@@ -10,7 +10,10 @@ body{
     text-align: center;
     font-family: sans-serif;
 }
-
+/* .content p{
+    font-size: 25px;
+    font-family: cursive;
+} */
 .head {
     display: flex;
     align-items: center;
@@ -76,14 +79,15 @@ body{
 
 p {
     margin-bottom: 40px;
-    font-size: 18px;
+    font-size: 20px;
     color: #0e0d0d;
     padding: 0 100px;
 }
 
 .btn {
     display: inline-block;
-    margin-top: 15opx;
+
+    margin-top: 15px;
     padding: 10px 40px;
     color: #fff;
     border: 2px solid #6F4E37;
